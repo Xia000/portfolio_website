@@ -20,7 +20,11 @@ const Technologies = () =>  (
           <ListTitle>Front-End</ListTitle>
           <ListParagraph>
             Experiece with <br />
+            Html< br/>
+            CSS <br/>
+            JavaScript <br />
             React.js
+
           </ListParagraph>
         </ListContainer>
       </ListItem>
@@ -32,7 +36,8 @@ const Technologies = () =>  (
           <ListTitle>Back-End</ListTitle>
           <ListParagraph>
             Experience with <br />
-            Node and Databases
+            PHP and MySql <br />
+            Python Django 
           </ListParagraph>
         </ListContainer>
       </ListItem>
